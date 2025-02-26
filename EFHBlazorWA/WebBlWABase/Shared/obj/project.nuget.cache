@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVctEPQEG7nh+O9Avn1vKeK6Sc+K7sNTxT6HyVL8NVWNCTb1nq953CRXtb37fmIhYOWMJv28xbFrAYZf1ipCUg==",
+  "success": true,
+  "projectFilePath": "G:\\David\\EXXIS\\CINEPLANET\\RICARDO\\CIneplanet_webproveedores\\2 Implementacion\\WebBalanza\\EFHBlazorWA\\WebBlWABase\\Shared\\EFHBlazzer.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

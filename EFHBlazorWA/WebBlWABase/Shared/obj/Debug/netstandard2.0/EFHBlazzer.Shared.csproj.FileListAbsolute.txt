@@ -1,0 +1,10 @@
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\bin\Debug\netstandard2.0\EFHBlazzer.Shared.deps.json
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\bin\Debug\netstandard2.0\EFHBlazzer.Shared.dll
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\bin\Debug\netstandard2.0\EFHBlazzer.Shared.pdb
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.csproj.AssemblyReference.cache
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.AssemblyInfoInputs.cache
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.AssemblyInfo.cs
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.csproj.CoreCompileInputs.cache
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.dll
+G:\David\EXXIS\CINEPLANET\RICARDO\CIneplanet_webproveedores\2 Implementacion\WebBalanza\EFHBlazorWA\WebBlWABase\Shared\obj\Debug\netstandard2.0\EFHBlazzer.Shared.pdb
